@@ -41,10 +41,8 @@ public class proves {
 }
 ```
 
-  - **Diagrama:![image](https://user-images.githubusercontent.com/82141541/204744668-df22303c-16b5-4b51-b715-8e88e95af9b4.png)
-
+  - **Diagrama:![image](https://user-images.githubusercontent.com/82141541/204749543-3edaaa33-834a-4250-bf7f-4a50e1e531b9.png)
   - **Resultat CC: 4+1=5
-  
   - **Casos Posibles: T=-2 Roba=Roba Esquiar, T=9 Roba=Roba Muntanya, T=16 Roba=Roba Hivern, T=25 Roba Estiu
                        
 
@@ -59,9 +57,9 @@ public class proves {
         return llums;
     }
 ```
-  - **Diagrama:**
-  - **Resultat CC:**
-  - **Resultat proves camins:**
+  - **Diagrama:![image](https://user-images.githubusercontent.com/82141541/204750187-b9a4df4b-f8e1-4dd9-8ca5-6283d96221a7.png)
+  - **Resultat CC:2+1=3
+  - **Resultat proves camins: Hora=6 Llums=true, Hora=23 Llums=true, Hora=10 Llums=false
 
 5. Investiga sobre les proves de caixa negra:
 
