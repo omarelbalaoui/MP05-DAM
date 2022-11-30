@@ -64,5 +64,10 @@ public class proves {
 5. Investiga sobre les proves de caixa negra:
 
   - Què són?
+  	- Aquest a diferencia de les de caixa blanca, l'evaluador o programador desconeix l'estructura o diseny intern del programa o 
+  	element amb el que s'esta fent proves.
+  
   - Quina diferència principal tenen sobre les de caixa blanca?
-
+	- Es desconeix l'estructura del programa.
+	- Es una prova funcional del programa a diferencia de la blanca que es estructural.
+	- ES pot dur a terme mitjançant metodes de prova/error.
