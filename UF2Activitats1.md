@@ -15,7 +15,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 2. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
   - ![image](https://user-images.githubusercontent.com/110727546/204615125-363e5e6c-173b-4ec0-8c0b-cb97985ade06.png)
 
-  - **Diagrama:**
+  - **Diagrama:![image](https://user-images.githubusercontent.com/82141541/204740189-7b5790ec-e0a4-40f9-9e2b-acc7f9473a44.png)
   - **Resultat CC:**
 
 3. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
