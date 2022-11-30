@@ -43,7 +43,10 @@ public class proves {
 
   - **Diagrama:![image](https://user-images.githubusercontent.com/82141541/204744668-df22303c-16b5-4b51-b715-8e88e95af9b4.png)
 
-  - **Resultat CC:**
+  - **Resultat CC: 4+1=5
+  
+  - **Casos Posibles: T=-2 Roba=Roba Esquiar, T=9 Roba=Roba Muntanya, T=16 Roba=Roba Hivern, T=25 Roba Estiu
+                       
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
