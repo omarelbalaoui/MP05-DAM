@@ -1,7 +1,6 @@
 public class Pizzeria {
-    int maxim;
+    int pizzes;
     boolean pot = false;
-    if (comanda < 10) {
+    if (pizzes > 10)
         System.out.println("Hola");
-    }
 }

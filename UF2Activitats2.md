@@ -23,4 +23,4 @@ Es demana:
 
 | Paràmetres | Valors límit | Casos Vàlids | Casos No Valids |
 | ---------- | ---------- | ---------- | ---------- |
-| Pizzes | - Es un número <br>  - Entre 0 i 10 | 4. 1 <br> 5. 9 | 6. cinc
+| Pizzes | - Es un número <br>  - Entre 0 i 10 | 4. 10 <br> 5. 9 | 6. 11
