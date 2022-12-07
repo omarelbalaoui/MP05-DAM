@@ -15,7 +15,8 @@ Es demana:
 - Fer el codi font del programa.
 - Fer la taula amb les particions equivalents i casos vàlids i no vàlids.
 
-|Paràmetres|COndicions|Classes Vàlides|Classes no vàlides|
+| Paràmetres | Condicions | Classes Vàlides | Classes no vàlides |
+| ---------- | ---------- | ---------- | ---------- |
 |Pizzes | Numero <br> (0..10) <br> | Pizzes <= 10 (true) | pizzes > 10 (false) <br> No és un numero (Error)
 
 - Fer la taula amb l'anàlisis de valors límit i casos vàlids i no vàlids.
