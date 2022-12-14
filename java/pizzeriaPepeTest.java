@@ -24,12 +24,46 @@
             Assertions.assertFalse(pot);
         }
 
-
         @Test //Valor no és un número
         void prova4() {
-            boolean pot = pizzeriaPepe.potCarregar("cinc");
+            boolean pot = pizzeriaPepe.potCarregar(Integer.parseInt("cinc"));
             Assertions.assertFalse(pot);
         }
 
+        @Test //Valor límit 0
+        void prova5() {
+            boolean pot = pizzeriaPepe.potCarregar(0);
+            Assertions.assertFalse(pot);
+        }
 
-}
+        @Test //Valor límit 1
+        void prova6() {
+            boolean pot = pizzeriaPepe.potCarregar(1);
+            Assertions.assertTrue(pot);
+        }
+
+        @Test //Valor límit 2
+        void prova7() {
+            boolean pot = pizzeriaPepe.potCarregar(2);
+            Assertions.assertTrue(pot);
+        }
+
+        @Test //Valor límit 9
+        void prova8() {
+            boolean pot = pizzeriaPepe.potCarregar(9);
+            Assertions.assertTrue(pot);
+        }
+
+        @Test //Valor límit 10
+        void prova9() {
+            boolean pot = pizzeriaPepe.potCarregar(10);
+            Assertions.assertTrue(pot);
+        }
+
+        @Test //Valor límit 11
+        void prova10() {
+            boolean pot = pizzeriaPepe.potCarregar(11);
+            Assertions.assertFalse(pot);
+        }
+
+    }
